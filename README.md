@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/fd08937c4ae6cb1303731.jpg">
+  <img src="https://telegra.ph/file/79VonJzPKWZGjy0Yx3O94g.jpg">
 </p>
 
 ## <p align="center">DEPLOY TO HEROKU</p>
@@ -21,10 +21,6 @@
   <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-aqua?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
 
 
-
-## Group Support:
-
-   <a href="https://t.me/skyzusupport"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 
 
 ## Stay Support 🚀
