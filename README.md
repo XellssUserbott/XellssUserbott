@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/fd08937c4ae6cb1303731.jpg">
+  <img src="https://telegra.ph/file/79VonJzPKWZGjy0Yx3O94g .jpg">
 </p>
 
 ## <p align="center">DEPLOY TO HEROKU</p>
@@ -37,4 +37,4 @@
 *   [Risman](https://github.com/mrismanaziz/Man-Userbot)   Man - Userbot
 *   [Axells](https://github.com/Axells/axells-userbot)   axells-userbot
 *   DAN TERIMAKASIH KEPADA USERBOT LAINNYA
-
+Mo
